@@ -1,2 +1,2 @@
 # Attendance-Management-System
-Android application for detecting and recognising and the attendance based on the Image taken from the camera
+Android application for marking the Attendence based on the detection and recognition of face from the image taken from the phone's camera.
